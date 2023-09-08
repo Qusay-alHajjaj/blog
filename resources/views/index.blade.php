@@ -15,29 +15,15 @@
             <h2 class="font-bold text-gray-700 text-3xl uppercase">
                 How To Learn Programming in 2023
             </h2>
-            <p class="font-bold text-xl text-gray-600 pt-2">
-                You can find a list of all Programming Languages in 2023 Here
-            </p>
             <p class="py-4 leading-5 text-sm text-gray-500">
                 Get the same random image every time based on a seed, by adding /seed/seed to the start of the url You may combine any of the options above.
                 For example, to get a specific image that is grayscale and blurred.
             </p>
-            <a class="bg-gray-700 text-gray-100 py-4 px-5 rounded-lg font-bold uppercase text-l hover:text-white hover:bg-black transition duration-300" href="/">Read More</a>
+            <a class="bg-gray-700 text-gray-100 py-4 px-5 rounded-lg font-bold uppercase text-l hover:text-white hover:bg-black transition duration-300" href="https://www.freecodecamp.org">Read More</a>
         </div>
     </div>
 
-{{-- blog categories --}}
-    {{-- <div class="text-center p-15 bg-gray-700 text-white">
-        <h2 class="text-2xl">
-            Blog Categories
-        </h2>
-        <div class="container sm:grid grid-cols-4 mx-auto pt-10">
-            <div class="font-bold text-2xl py-2">Ux Design Thinking</div>
-            <div class="font-bold text-2xl py-2">Programming Languages</div>
-            <div class="font-bold text-2xl py-2">Ghraphic Design</div>
-            <div class="font-bold text-2xl py-2">Front-End Development</div>
-        </div>
-    </div> --}}
+
 {{-- recent posts --}}
     <div class="container mx-auto text-center py-15">
         <h2 class="font-bold text-5xl py-10">Recent Posts</h2>
